@@ -1,1 +1,39 @@
+.container {        
+    text-align: center;
+}
 
+button {
+  margin-top: 3em;
+  padding: 10px 20px;
+}
+
+#bigfoot {
+    
+    width: 20em;
+    height: auto;
+}
+
+#forest {
+    width: 29em;
+    height: auto;
+    display: none;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: beige;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    height: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.result {
+    background-color: green;
+}
