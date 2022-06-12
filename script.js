@@ -14,8 +14,7 @@ function toggleImage() {
   var z = document.getElementById('button');
   if (z.innerHTML === 'click to hide me!') {
     z.innerHTML = 'click to reveal me!';
-  } else {
-    if (z.innerHTML === 'click to reveal me!') {
+  } else if (z.innerHTML === 'click to reveal me!') {
       z.innerHTML = 'click to hide me!';
   }
 }
