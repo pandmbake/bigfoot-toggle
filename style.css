@@ -12,6 +12,13 @@
     height: auto;
 }
 
+@media screen and (max-width: 538px) {
+    #bigfoot {
+      width: 15em;
+      height: auto;
+    }
+  }
+
 #forest {
     width: 29em;
     height: auto;
