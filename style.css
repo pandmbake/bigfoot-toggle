@@ -8,29 +8,28 @@ button {
 }
 
 #bigfoot {
-    
-    width: 20em;
-    height: auto;
+  width: 20em;
+  height: auto;
 }
 
 #forest {
-    width: 29em;
-    height: auto;
-    display: none;
+  width: 29em;
+  height: auto;
+  display: none;
 }
 
 body {
-    font-family: 'Comfortaa', cursive;
-    background-color: beige;
-    text-align: center;
+  font-family: 'Comfortaa', cursive;
+  background-color: beige;
+  text-align: center;
 }
 
 h1 {
-    color: black;
-    height: 3em;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  color: black;
+  height: 3em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
     
 }
 
