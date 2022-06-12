@@ -1,5 +1,5 @@
 function toggleImage() {
-  var x = document.getElementById("bigfoot");
+  var x = document.getElementById('bigfoot');
   if (x.style.display === "none") {
     x.style.display = "inline";
   } else {
@@ -15,7 +15,7 @@ function toggleImage() {
   if (z.innerHTML === 'click to hide me!') {
     z.innerHTML = 'click to reveal me!';
   } else {
-    if (z.innerHTML === 'click to reveal me!') {
+    if (z.innerHTML === 'click to reveal me!')
       z.innerHTML = 'click to hide me!';
   }
 }
